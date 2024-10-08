@@ -1,7 +1,5 @@
 # JavaScript
 
-## Curso de JavaScript
-
 > ##### If you find the repository useful, support it with “★ Star”. Thank you!
 
 ![](./00-Images/header.jpg)
